@@ -76,7 +76,6 @@ def dlPlaylist(url: str, filterlive: bool = True):
         print(f'Downloaded Playlist: {p.title}')
 
 
-out = 'C:\\Users\\olepe\\coding\\python\\yt2mp3\\mp3downloads'
 yturl = ''
 
 plurl = ''
